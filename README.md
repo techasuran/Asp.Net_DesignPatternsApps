@@ -1,5 +1,5 @@
 # Asp.Net_DesignPatternsApps
-This repository contains working apps which is realted the most used design patterns in asp.net 
+This repository contains working apps which is related  the most used design patterns in asp.net 
 
 
 1, RepositoryPatternTest -: This app gives a idea of how the repository patters works in asp.net helping separation of concerns 
