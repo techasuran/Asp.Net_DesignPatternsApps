@@ -1,0 +1,21 @@
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Repository.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Repository.pdb
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Types.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Types.pdb
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.pdb
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Repository.dll
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Repository.pdb
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Types.dll
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Types.pdb
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.dll
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.pdb
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Repository.dll
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Repository.pdb
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Types.dll
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\bin\Debug\RepositoryPatternTest.Types.pdb
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.csprojResolveAssemblyReference.cache
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.dll
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Repository\obj\Debug\RepositoryPatternTest.Repository.pdb

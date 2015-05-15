@@ -1,0 +1,15 @@
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Types\bin\Debug\RepositoryPatternTest.Types.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Types\bin\Debug\RepositoryPatternTest.Types.pdb
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.pdb
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Types\bin\Debug\RepositoryPatternTest.Types.dll
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Types\bin\Debug\RepositoryPatternTest.Types.pdb
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.dll
+C:\Users\nada.brown\Desktop\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.pdb
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Types\bin\Debug\RepositoryPatternTest.Types.dll
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Types\bin\Debug\RepositoryPatternTest.Types.pdb
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.csprojResolveAssemblyReference.cache
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.dll
+G:\Dotnet\DotNetConcepts\RepositoryPatternTest\RepositoryPatternTest\RepositoryPatternTest.Types\obj\Debug\RepositoryPatternTest.Types.pdb

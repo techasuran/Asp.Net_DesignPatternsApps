@@ -1,0 +1,9 @@
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\bin\Debug\RepositoryPatternTest.PlanetBusiness.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\bin\Debug\RepositoryPatternTest.PlanetBusiness.pdb
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\bin\Debug\RepositoryPatternTest.Repository.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\bin\Debug\RepositoryPatternTest.Types.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\bin\Debug\RepositoryPatternTest.Types.pdb
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\bin\Debug\RepositoryPatternTest.Repository.pdb
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\obj\Debug\RepositoryPatternTest.PlanetBusiness.dll
+C:\Users\kbecker\Documents\Visual Studio 2008\Projects\RepositoryPatternTest\RepositoryPatternTest.PlanetBusiness\obj\Debug\RepositoryPatternTest.PlanetBusiness.pdb
